@@ -1,0 +1,5 @@
+00000|00|00000|0|00|00000|0
+
+A:
+1->flip|card B|right
+0->1|card A|right
